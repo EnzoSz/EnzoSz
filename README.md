@@ -22,7 +22,7 @@ Soy un desarrollador de software Full Stack con enfoque en el backend y estudian
 
 ## 📬 Contáctame
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/enzo-soliz)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/enzo-soliz/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzosoliz95@gmail.com)
 <br>
 <br>
