@@ -27,3 +27,9 @@ Soy un desarrollador de software Full Stack con enfoque en el backend y estudian
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzosoliz95@gmail.com)
 <br>
 <br>
+
+<b>My GitHub Stats</b>
+
+<a href="https://github.com/EnzoSz"><img src="https://github-readme-stats.vercel.app/api?username=enzosz&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=64748b&bg_color=181824&hide_border=true&show_icons=true" alt="EnzoSz GitHub stats" /></a>
+
+<a href="https://github.com/EnzoSz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=enzosz&stroke=ffffff&background=181824&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
