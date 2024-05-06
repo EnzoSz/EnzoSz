@@ -17,6 +17,7 @@ Soy un desarrollador de software Full Stack con enfoque en el backend y estudian
 <a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 <a src="https://expressjs.com/es/"><img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/></a>
 <a src="https://www.mysql.com"><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/></a>
+<a src="https://www.postman.com/"><img width="48" height="48" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/></a>
  </p>
 
 <br>
