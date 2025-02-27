@@ -7,6 +7,7 @@ Soy un desarrollador de software Full Stack con enfoque en el backend y estudian
 
 <p align="left"> 
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 <a src="https://visualstudio.microsoft.com/"><img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/></a>
